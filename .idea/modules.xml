@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/SchoolTakeOut.iml" filepath="$PROJECT_DIR$/.idea/SchoolTakeOut.iml" />
       <module fileurl="file://$PROJECT_DIR$/school_take_out/school_take_out.iml" filepath="$PROJECT_DIR$/school_take_out/school_take_out.iml" />
     </modules>
   </component>
