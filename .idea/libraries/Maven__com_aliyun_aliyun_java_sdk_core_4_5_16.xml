@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Maven: com.aliyun:aliyun-java-sdk-core:4.5.16" type="java-imported" external-system-id="Maven">
+    <properties groupId="com.aliyun" artifactId="aliyun-java-sdk-core" version="4.5.16" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Maven-3.8.1/Fly_Repository/com/aliyun/aliyun-java-sdk-core/4.5.16/aliyun-java-sdk-core-4.5.16.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../Maven-3.8.1/Fly_Repository/com/aliyun/aliyun-java-sdk-core/4.5.16/aliyun-java-sdk-core-4.5.16-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../Maven-3.8.1/Fly_Repository/com/aliyun/aliyun-java-sdk-core/4.5.16/aliyun-java-sdk-core-4.5.16-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
