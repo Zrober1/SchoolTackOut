@@ -1,0 +1,9 @@
+-------------------------------------------------------------------------------
+Test set: com.zrober.school.SchoolApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 2.765 s <<< FAILURE! - in com.zrober.school.SchoolApplicationTests
+contextLoads  Time elapsed: 0.005 s  <<< ERROR!
+java.lang.IllegalStateException: Failed to load ApplicationContext
+Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'commonController': Injection of autowired dependencies failed; nested exception is java.lang.IllegalArgumentException: Could not resolve placeholder 'school.path' in value "${school.path}"
+Caused by: java.lang.IllegalArgumentException: Could not resolve placeholder 'school.path' in value "${school.path}"
+
