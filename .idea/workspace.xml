@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8490f5bb-ae94-4f8a-bfb1-5d41d03b69f6" name="变更" comment="开始" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="Zrober" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="master" />
+                    <option name="lastUsedInstant" value="1680850887" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="Zrober" />
+                    <option name="lastUsedInstant" value="1680836408" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$PROJECT_DIR$/../Maven-3.8.1/Fly_Repository/com/baomidou/mybatis-plus-extension/3.5.2/mybatis-plus-extension-3.5.2.jar!/com/baomidou/mybatisplus/extension/service/IService.class" root0="SKIP_INSPECTION" />
+    <setting file="jar://$PROJECT_DIR$/../Maven-3.8.1/Fly_Repository/com/baomidou/mybatis-plus-extension/3.5.2/mybatis-plus-extension-3.5.2.jar!/com/baomidou/mybatisplus/extension/service/impl/ServiceImpl.class" root0="SKIP_INSPECTION" />
+    <setting file="jar://$PROJECT_DIR$/../Maven-3.8.1/Fly_Repository/org/springframework/spring-web/5.3.24/spring-web-5.3.24.jar!/org/springframework/web/method/support/InvocableHandlerMethod.class" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="F:\Maven-3.8.1\Fly_Repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../Maven-3.8.1" />
+        <option name="useMavenConfig" value="true" />
+        <option name="userSettingsFile" value="F:\Maven-3.8.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2JnMuzw45SwqgRmVRgvG9SXCC1v" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "jdk.selected.JAVA_MODULE": "11",
+    "last_opened_file_path": "F:/SchoolTakeOut/school_take_out/src/main/resources/backend/page/demo",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "模块",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "spring.configuration.checksum": "82eb3b7bf21f7d86e906bd6df2d51741",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
+  }
+}]]></component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\SchoolTakeOut\school_take_out\src\main\resources\backend\page\demo" />
+      <recent name="F:\SchoolTakeOut\school_take_out" />
+      <recent name="F:\SchoolTakeOut\school_take_out\src\main\java\com\zrober\school\config" />
+      <recent name="F:\SchoolTakeOut\school_take_out\src\main\resources" />
+      <recent name="F:\SchoolTakeOut\school_take_out\src\main\java\com\zrober\school\common" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\SchoolTakeOut\school_take_out\src\main\resources\backend\images\login" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.SchoolApplication">
+    <configuration name="generated-requests | #2" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$APPLICATION_CONFIG_DIR$/scratches/generated-requests.http" index="2" requestIdentifier="#2">
+      <method v="2" />
+    </configuration>
+    <configuration name="SchoolApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="reggie_take_out" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zrober.school.SchoolApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SchoolApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="school_take_out" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zrober.school.SchoolApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="HTTP 请求.generated-requests | #2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="8490f5bb-ae94-4f8a-bfb1-5d41d03b69f6" name="变更" comment="" />
+      <created>1672709620529</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1672709620529</updated>
+      <workItem from="1672709621753" duration="10789000" />
+      <workItem from="1672793214621" duration="2926000" />
+      <workItem from="1672887177104" duration="1145000" />
+      <workItem from="1672906710186" duration="2581000" />
+      <workItem from="1672968470103" duration="2424000" />
+      <workItem from="1673486737687" duration="781000" />
+      <workItem from="1673492078001" duration="1017000" />
+      <workItem from="1673512314953" duration="20000" />
+      <workItem from="1675234160456" duration="2141000" />
+      <workItem from="1675238225139" duration="4712000" />
+      <workItem from="1675298120776" duration="933000" />
+      <workItem from="1675299433129" duration="602000" />
+      <workItem from="1675387995886" duration="670000" />
+      <workItem from="1675392415286" duration="1192000" />
+      <workItem from="1675647445581" duration="8440000" />
+      <workItem from="1675729959211" duration="1214000" />
+      <workItem from="1675731194648" duration="44000" />
+      <workItem from="1675731269862" duration="74000" />
+      <workItem from="1675731530643" duration="12000" />
+      <workItem from="1675752570335" duration="6500000" />
+      <workItem from="1675818011848" duration="124000" />
+      <workItem from="1675818187850" duration="498000" />
+      <workItem from="1675818923352" duration="4849000" />
+      <workItem from="1675838455752" duration="2565000" />
+      <workItem from="1675910454871" duration="3368000" />
+      <workItem from="1675924800687" duration="1751000" />
+      <workItem from="1675991471936" duration="6252000" />
+      <workItem from="1676011926104" duration="6918000" />
+      <workItem from="1676249344096" duration="17741000" />
+      <workItem from="1676280106953" duration="822000" />
+      <workItem from="1676335612801" duration="2622000" />
+      <workItem from="1676339831469" duration="8024000" />
+      <workItem from="1676422242255" duration="3548000" />
+      <workItem from="1676618140307" duration="77000" />
+      <workItem from="1676855063592" duration="3000" />
+      <workItem from="1676855386643" duration="13229000" />
+      <workItem from="1676941094384" duration="2764000" />
+      <workItem from="1676947383111" duration="79000" />
+      <workItem from="1676962033683" duration="386000" />
+      <workItem from="1676967158928" duration="13000" />
+      <workItem from="1677137776020" duration="64000" />
+      <workItem from="1677155162472" duration="42000" />
+      <workItem from="1677483905887" duration="180000" />
+      <workItem from="1677484122832" duration="26000" />
+      <workItem from="1677545875685" duration="2501000" />
+      <workItem from="1677548752653" duration="601000" />
+      <workItem from="1677553921706" duration="198000" />
+      <workItem from="1677557549011" duration="134000" />
+      <workItem from="1677566786033" duration="6545000" />
+      <workItem from="1677584410914" duration="43000" />
+      <workItem from="1677584468484" duration="390000" />
+      <workItem from="1677584872053" duration="635000" />
+      <workItem from="1677826050428" duration="1435000" />
+      <workItem from="1677827504752" duration="2839000" />
+      <workItem from="1678085037788" duration="559000" />
+      <workItem from="1678085617692" duration="505000" />
+      <workItem from="1678086136187" duration="888000" />
+      <workItem from="1678087038505" duration="11000" />
+      <workItem from="1678087088675" duration="518000" />
+      <workItem from="1678090842292" duration="1752000" />
+      <workItem from="1678695997362" duration="348000" />
+      <workItem from="1678760390941" duration="10000" />
+      <workItem from="1679555869044" duration="6973000" />
+      <workItem from="1679620021093" duration="2373000" />
+      <workItem from="1679878477408" duration="25000" />
+      <workItem from="1680051261502" duration="3462000" />
+      <workItem from="1680054742341" duration="2841000" />
+      <workItem from="1680059174608" duration="464000" />
+      <workItem from="1680059648501" duration="113000" />
+      <workItem from="1680059774349" duration="79000" />
+      <workItem from="1680059864888" duration="238000" />
+      <workItem from="1680060211910" duration="258000" />
+      <workItem from="1680060479589" duration="611000" />
+      <workItem from="1680080548202" duration="9000" />
+      <workItem from="1680569639026" duration="3422000" />
+      <workItem from="1680573538576" duration="146000" />
+      <workItem from="1680573706180" duration="3864000" />
+      <workItem from="1680692865665" duration="2307000" />
+      <workItem from="1680741419956" duration="2944000" />
+      <workItem from="1680829636775" duration="2169000" />
+      <workItem from="1680832665330" duration="3640000" />
+      <workItem from="1680837136733" duration="198000" />
+      <workItem from="1680837352997" duration="2512000" />
+      <workItem from="1680850980465" duration="321000" />
+    </task>
+    <task id="LOCAL-00001" summary="开始">
+      <created>1680832774225</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1680832774225</updated>
+    </task>
+    <task id="LOCAL-00002" summary="开始">
+      <created>1680837058637</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1680837058637</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="44817050-dd4c-43bf-baff-3416d6f49693" value="TOOL_WINDOW" />
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="44817050-dd4c-43bf-baff-3416d6f49693">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="开始" />
+    <option name="LAST_COMMIT_MESSAGE" value="开始" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
