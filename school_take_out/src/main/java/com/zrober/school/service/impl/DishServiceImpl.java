@@ -96,6 +96,17 @@ public class DishServiceImpl extends ServiceImpl<DishMapper,Dish> implements Dis
     }
 
     @Override
+    @Transactional
     public void updateStatus(Long id, Integer status) {
+        Dish dish = new Dish();
+        dish.setId(id);
+        dish.setStatus(status);
+        dishMapper.updateById(dish);
+    }
+
+    @Transactional
+    @Override
+    public void removeWithDish(List<Long> ids) {
+        dishMapper.deleteBatchIds(ids);
     }
 }

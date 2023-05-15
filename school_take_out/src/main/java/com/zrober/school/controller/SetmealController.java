@@ -1,6 +1,7 @@
 package com.zrober.school.controller;
 
 import com.baomidou.mybatisplus.core.conditions.query.LambdaQueryWrapper;
+import com.baomidou.mybatisplus.core.conditions.update.LambdaUpdateWrapper;
 import com.baomidou.mybatisplus.extension.plugins.pagination.Page;
 import com.zrober.school.common.R;
 import com.zrober.school.dto.SetmealDto;
@@ -10,7 +11,6 @@ import com.zrober.school.service.CategoryService;
 import com.zrober.school.service.SetmealDishService;
 import com.zrober.school.service.SetmealService;
 import lombok.extern.slf4j.Slf4j;
-import org.apache.commons.lang.StringUtils;
 import org.springframework.beans.BeanUtils;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
@@ -101,11 +101,9 @@ public class SetmealController {
      * @return
      */
     @DeleteMapping
-    public R<String> delete(@RequestParam List<Long> ids){
-        log.info("ids:{}",ids);
-
+    public R<String> delete(@RequestParam List<Long> ids) {
+        log.info("ids:{}", ids);
         setmealService.removeWithDish(ids);
-
         return R.success("套餐数据删除成功");
     }
 
@@ -124,5 +122,22 @@ public class SetmealController {
         List<Setmeal> list = setmealService.list(queryWrapper);
 
         return R.success(list);
+    }
+
+    /**
+     * @param status 状态
+     * @param ids    id
+     * @return {@link R }<{@link String }>
+     * @Description: 启用/禁用
+     * @author Zrober
+     * @date 2023/05/07
+     */
+    @PostMapping("/status/{status}")
+    public R<String> startStop(@PathVariable("status") int status, Long[] ids) {
+        LambdaUpdateWrapper<Setmeal> setmealLambdaUpdateWrapper = new LambdaUpdateWrapper<>();
+        setmealLambdaUpdateWrapper.set(Setmeal::getStatus,status);
+        setmealLambdaUpdateWrapper.in(Setmeal::getId,ids);
+        boolean update = setmealService.update(setmealLambdaUpdateWrapper);
+        return R.success("");
     }
 }

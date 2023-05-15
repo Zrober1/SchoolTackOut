@@ -4,7 +4,6 @@ import com.baomidou.mybatisplus.core.conditions.query.LambdaQueryWrapper;
 import com.zrober.school.common.R;
 import com.zrober.school.entity.User;
 import com.zrober.school.service.UserService;
-import com.zrober.school.utils.SMSUtils;
 import com.zrober.school.utils.ValidateCodeUtils;
 import lombok.extern.slf4j.Slf4j;
 import org.apache.commons.lang.StringUtils;
@@ -41,7 +40,7 @@ public class UserController {
             log.info("code={}",code);
 
             //调用阿里云提供的短信服务API完成发送短信
-            //SMSUtils.sendMessage("瑞吉外卖","",phone,code);
+            //SMSUtils.sendMessage("校园外卖","",phone,code);
 
             //需要将生成的验证码保存到Session
             session.setAttribute(phone,code);

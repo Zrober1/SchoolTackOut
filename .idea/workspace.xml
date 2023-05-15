@@ -5,7 +5,30 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8490f5bb-ae94-4f8a-bfb1-5d41d03b69f6" name="变更" comment="开始">
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/_2023_4_7_0007_15_05____.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/在进行合并之前于_2023_4_7_0007_15_05_取消提交了更改_[变更]/shelved.patch" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/school_take_out/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/school_take_out/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/school_take_out/src/main/java/com/zrober/school/controller/DishController.java" beforeDir="false" afterPath="$PROJECT_DIR$/school_take_out/src/main/java/com/zrober/school/controller/DishController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/school_take_out/src/main/java/com/zrober/school/controller/SetmealController.java" beforeDir="false" afterPath="$PROJECT_DIR$/school_take_out/src/main/java/com/zrober/school/controller/SetmealController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/school_take_out/src/main/java/com/zrober/school/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/school_take_out/src/main/java/com/zrober/school/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/school_take_out/src/main/java/com/zrober/school/service/DishService.java" beforeDir="false" afterPath="$PROJECT_DIR$/school_take_out/src/main/java/com/zrober/school/service/DishService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/school_take_out/src/main/java/com/zrober/school/service/impl/DishServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/school_take_out/src/main/java/com/zrober/school/service/impl/DishServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/school_take_out/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/school_take_out/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/school_take_out/src/main/resources/backend/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/school_take_out/src/main/resources/backend/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/school_take_out/src/main/resources/backend/page/login/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/school_take_out/src/main/resources/backend/page/login/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/school_take_out/src/main/resources/backend/page/member/list.html" beforeDir="false" afterPath="$PROJECT_DIR$/school_take_out/src/main/resources/backend/page/member/list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/school_take_out/src/test/java/com/zrober/school/SchoolApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/school_take_out/src/test/java/com/zrober/school/SchoolApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/school_take_out/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/school_take_out/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/school_take_out/target/classes/backend/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/school_take_out/target/classes/backend/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/school_take_out/target/classes/backend/page/login/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/school_take_out/target/classes/backend/page/login/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/school_take_out/target/classes/backend/page/member/list.html" beforeDir="false" afterPath="$PROJECT_DIR$/school_take_out/target/classes/backend/page/member/list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/school_take_out/target/classes/com/zrober/school/controller/DishController.class" beforeDir="false" afterPath="$PROJECT_DIR$/school_take_out/target/classes/com/zrober/school/controller/DishController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/school_take_out/target/classes/com/zrober/school/controller/SetmealController.class" beforeDir="false" afterPath="$PROJECT_DIR$/school_take_out/target/classes/com/zrober/school/controller/SetmealController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/school_take_out/target/classes/com/zrober/school/controller/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/school_take_out/target/classes/com/zrober/school/controller/UserController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/school_take_out/target/classes/com/zrober/school/service/DishService.class" beforeDir="false" afterPath="$PROJECT_DIR$/school_take_out/target/classes/com/zrober/school/service/DishService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/school_take_out/target/classes/com/zrober/school/service/impl/DishServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/school_take_out/target/classes/com/zrober/school/service/impl/DishServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/school_take_out/target/test-classes/com/zrober/school/SchoolApplicationTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/school_take_out/target/test-classes/com/zrober/school/SchoolApplicationTests.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,12 +64,12 @@
               <option name="branches">
                 <list>
                   <RecentBranch>
-                    <option name="branchName" value="master" />
-                    <option name="lastUsedInstant" value="1680850887" />
+                    <option name="branchName" value="Zrober" />
+                    <option name="lastUsedInstant" value="1680853057" />
                   </RecentBranch>
                   <RecentBranch>
-                    <option name="branchName" value="Zrober" />
-                    <option name="lastUsedInstant" value="1680836408" />
+                    <option name="branchName" value="master" />
+                    <option name="lastUsedInstant" value="1680850887" />
                   </RecentBranch>
                 </list>
               </option>
@@ -79,36 +102,36 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RequestMappingsPanelOrder0": "0",
-    "RequestMappingsPanelOrder1": "1",
-    "RequestMappingsPanelWidth0": "75",
-    "RequestMappingsPanelWidth1": "75",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "master",
-    "jdk.selected.JAVA_MODULE": "11",
-    "last_opened_file_path": "F:/SchoolTakeOut/school_take_out/src/main/resources/backend/page/demo",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "模块",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "spring.configuration.checksum": "82eb3b7bf21f7d86e906bd6df2d51741",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;Zrober&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;11&quot;,
+    &quot;last_opened_file_path&quot;: &quot;F:/ruiji_work&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;模块&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;82eb3b7bf21f7d86e906bd6df2d51741&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "DatabaseDriversLRU": [
-      "mysql"
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="ReactorSettings">
     <option name="notificationShown" value="true" />
   </component>
@@ -131,9 +154,25 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.SchoolApplication">
+  <component name="RunManager" selected="JUnit.SchoolApplicationTests.testRedis">
     <configuration name="generated-requests | #2" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$APPLICATION_CONFIG_DIR$/scratches/generated-requests.http" index="2" requestIdentifier="#2">
       <method v="2" />
+    </configuration>
+    <configuration name="SchoolApplicationTests.testRedis" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="school_take_out" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zrober.school.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.zrober.school" />
+      <option name="MAIN_CLASS_NAME" value="com.zrober.school.SchoolApplicationTests" />
+      <option name="METHOD_NAME" value="testRedis" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="SchoolApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <module name="reggie_take_out" />
@@ -151,6 +190,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.SchoolApplicationTests.testRedis" />
         <item itemvalue="HTTP 请求.generated-requests | #2" />
       </list>
     </recent_temporary>
@@ -246,7 +286,13 @@
       <workItem from="1680832665330" duration="3640000" />
       <workItem from="1680837136733" duration="198000" />
       <workItem from="1680837352997" duration="2512000" />
-      <workItem from="1680850980465" duration="1750000" />
+      <workItem from="1680850980465" duration="2294000" />
+      <workItem from="1681114719633" duration="11000" />
+      <workItem from="1683380385315" duration="8989000" />
+      <workItem from="1683440562521" duration="641000" />
+      <workItem from="1683518710897" duration="737000" />
+      <workItem from="1683616771459" duration="2252000" />
+      <workItem from="1683943461941" duration="43000" />
     </task>
     <task id="LOCAL-00001" summary="开始">
       <created>1680832774225</created>
@@ -276,7 +322,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680851697689</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="开始">
+      <created>1680853045598</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1680853045598</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -312,6 +365,13 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="开始" />
     <option name="LAST_COMMIT_MESSAGE" value="开始" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <inline-watch fileUrl="file://$PROJECT_DIR$/school_take_out/src/main/java/com/zrober/school/controller/EmployeeController.java" line="108">
+        <watch expression="pageSize" language="JAVA" />
+      </inline-watch>
+    </watches-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
